@@ -3,7 +3,7 @@ import tweepy,sys,jsonpickle
 consumer_key = '5xNTO3wIfqNW6ys42mQbM6Y9p'
 consumer_secret = 'MCEl28efL5cFjRekTJyzUfg8L4pETN1Xg32RJIy85Wm2fWOqKj'
 
-qry='irman gusman'
+qry='irman gusman korupsi kpk'
 maxTweets = 5 # Isi sembarang nilai sesuai kebutuhan anda
 tweetsPerQry = 100  # Jangan isi lebih dari 100, ndak boleh oleh Twitter
 fName='hasil_crawl.json' # Nama File hasil Crawling
